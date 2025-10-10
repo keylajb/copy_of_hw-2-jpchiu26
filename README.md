@@ -1,3 +1,6 @@
+https://hub.2i2c.mybinder.org/user/ucb-stat-159-f25-hw-2-jpchiu26-6o2r1ja5/doc/tree/LOSC_Event_tutorial.ipynb
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/y12QcJaO)
 # HW 2: From Notebooks to Research Packages
 

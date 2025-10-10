@@ -1,1 +1,1 @@
-Not sure how to add tags, asked chatGPT how to add tags.
+Not sure what the dependencies for the environment.yml was so asked chatgpt for help.
