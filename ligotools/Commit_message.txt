@@ -1,0 +1,1 @@
+Added Commit_message.txt to try to show a better way of writing a commit message that is more descriptive for the ligotools package.
